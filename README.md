@@ -71,5 +71,5 @@ The goal is to create a normalized, relational database that supports key operat
 ## 👩‍💻 Author
 
 *Triveni Shinde*  
-Final-Year B.Tech (Information Technology)  
+B.Tech (Information Technology)  
 Database & Web Development Enthusiast  
