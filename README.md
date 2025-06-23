@@ -45,8 +45,8 @@ The goal is to create a normalized, relational database that supports key operat
 
 ## 📄 Files Included
 
-- schema.sql – Contains SQL DDL statements to create tables
-- er_diagram.png – ER Diagram image showing relationships
+- Hmart_task1.sql – Contains SQL DDL statements to create tables
+- Hmart_ErDiagram.png – ER Diagram image showing relationships
 
 
 ## ⚙️ How to Use
@@ -73,4 +73,3 @@ The goal is to create a normalized, relational database that supports key operat
 *Triveni Shinde*  
 Final-Year B.Tech (Information Technology)  
 Database & Web Development Enthusiast  
-GitHub: [your GitHub link here]
